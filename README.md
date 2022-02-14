@@ -8,8 +8,8 @@ Olá, Eu sou a Letícia Braga 👋
 
 <div align="center" style="border-radius:50px;">
   <a href="https://github.com/leticiabrag">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=leticiabrag&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiabrag&layout=compact&langs_count=7&theme=dark"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=leticiabrag&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiabrag&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
